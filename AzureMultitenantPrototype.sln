@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureMultitenantPrototype.Api", "AzureMultitenantPrototype.Api\AzureMultitenantPrototype.Api.csproj", "{CD3F2928-AF9E-4A63-8B77-FF35E5BB6885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3F2928-AF9E-4A63-8B77-FF35E5BB6885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3F2928-AF9E-4A63-8B77-FF35E5BB6885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3F2928-AF9E-4A63-8B77-FF35E5BB6885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3F2928-AF9E-4A63-8B77-FF35E5BB6885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1684FE2-996D-4DDD-9502-ABBF27CA84F1}
+	EndGlobalSection
+EndGlobal
